@@ -4,11 +4,9 @@
 ### Arrivals to Portugal
 
 Aircraft entering Portuguese airspace with an aerodrome within Portugal as their destination should, traffic permitting, be cleared DCT the first point of the published STAR and subsequently cleared for the appropriate STAR.
-
 ### Overflights
 
 Aircraft transiting Portuguese airspace should, traffic permitting, be cleared DCT the appropriate sector boundary/exit point.
-
 ### Flight Levels
 
 The magnetic track-based cruising level rule does not apply to flights operating entirely within Portugal.

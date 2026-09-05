@@ -28,7 +28,7 @@
 - **ACKNOWLEDGE** = Have you __received and understood__ the message?
 - **AFFIRM** = Yes
 - **APPROVED** = __Permission__ for the specific action that has been __granted__
-- **BREAK** = To __separate__ two distinct portions of information within thr same transmission
+- **BREAK** = To __separate__ two distinct portions of information within the same transmission
 - **BREAK BREAK** = Indicates thhe __separation__ between messages transmited __to different aircraft__ in a busy environment. __Not to be used when a read-back is mandatory__!
 - **CANCEL** = Cancel the previous clearance
 - **CONFIRM** = __Request for verification__ of a clearance, instruction, action, information, etc.

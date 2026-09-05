@@ -241,7 +241,7 @@ OR
 ---
 # Tower
 - High and fast rising terrain northwest of the runway. Most activity will be over the shoreline or over water.
-- **Four** different wind sensors are available: Rosário, Threshold runway 05, Midpoint and Threshold runway 23. Alternatively, use IPMA nsWEBPIP. No account is required, access via Data Query/Metar.
+- **Four** different wind sensors are available: Rosario, Threshold runway 05, Midpoint and Threshold runway 23. Alternatively, use IPMA nsWEBPIP. No account is required, access via Data Query/Metar.
 ## Area of Responsibility
 - MACTR is responsible for runway 05/23, the taxiways, and the CTR airspace as defined in AIP. Vertical limits are defined as surface up to 2000ft AMSL.
 - Porto da Cruz and Funchal city are good visual references of the limits of the CTR.
