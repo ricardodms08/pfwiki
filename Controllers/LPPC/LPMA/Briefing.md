@@ -252,9 +252,7 @@ Wind to be given on takeoff clearance:
 - RWY 05: Midpoint (METAR wind)
 - RWY 23: Midpoint (METAR wind) and Rosario
 
-If there are other aircraft under control of MACTR, with which Visual Separation in the Vicinity of
-Aerodrome will be applied, instruct departures to remain on Tower frequency after departure. Hand off to MATMA shall only occur after radar separation exists between the departure and all other
-traffic under control of MACTR
+If there are other aircraft under control of MACTR, with which Visual Separation in the Vicinity of Aerodrome will be applied, instruct departures to remain on Tower frequency after departure. Hand off to MATMA shall only occur after radar separation exists between the departure and all other traffic under control of MACTR
 ## Arrivals
 It is recommended to request to report when turning base to runway 05.
 
